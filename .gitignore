@@ -1,2 +1,10 @@
 # Buat file
 nano .gitignore
+# n8n
+.n8n/credentials/
+
+# Environment
+.env
+
+# Logs
+logs/
